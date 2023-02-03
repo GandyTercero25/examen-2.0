@@ -1,0 +1,1 @@
+Nombre del Paciente: Helen, Edad: 24, Género: Femenino, Contacto: 0998372704, Fecha: 09/05/1998
